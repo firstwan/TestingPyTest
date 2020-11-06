@@ -1,0 +1,6 @@
+pytest-html
+selenium
+pytest
+pytest-xdist
+request
+argparse
